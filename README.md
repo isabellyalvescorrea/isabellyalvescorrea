@@ -4,20 +4,18 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Sobre+mim" alt="Sobre mim animado"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Sobre+mim&repeat=false" alt="Sobre mim"/>
 </h2>
 
 <p>
 Me chamo Isabelly Correa, sou estudante de programação e estou aprendendo lógica e JavaScript.  
-Sou apaixonada por tecnologia, especialmente desenvolvimento web e inteligência artificial.  
+Sou apaixonada por tecnologia, especialmente programação e inteligência artificial.  
 Atualmente curso técnico em Informática para Internet e estou sempre buscando evoluir.  
-Meu objetivo é me tornar uma desenvolvedora Full Stack e criar soluções completas para empresas e pessoas. 🚀
-</p>
-
+Meu objetivo é me tornar uma desenvolvedora Full Stack e criar soluções completas para empresas e pessoas. 
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Tecnologias+que+estou+aprendendo" alt="Tecnologias animado"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Tecnologias+que+estou+aprendendo&repeat=false" alt="Tecnologias"/>
 </h2>
 
 <p align="center">
@@ -31,7 +29,7 @@ Meu objetivo é me tornar uma desenvolvedora Full Stack e criar soluções compl
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+Estat%C3%ADsticas" alt="Estatísticas animado"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+Estat%C3%ADsticas&repeat=false" alt="Estatísticas"/>
 </h2>
 
 <div align="center">
@@ -42,7 +40,7 @@ Meu objetivo é me tornar uma desenvolvedora Full Stack e criar soluções compl
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=%F0%9F%93%AB+Onde+me+encontrar" alt="Contato animado"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%93%AB+Onde+me+encontrar&repeat=false" alt="Contato"/>
 </h2>
 
 <p align="center">
@@ -60,7 +58,7 @@ Meu objetivo é me tornar uma desenvolvedora Full Stack e criar soluções compl
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=%F0%9F%90%8D+Meus+commits+animados" alt="Snake animado"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%90%8D+Meus+commits+animados&repeat=false" alt="Snake"/>
 </h2>
 
 ![Snake animation](https://github.com/isabellyalvescorrea/isabellyalvescorrea/blob/output/github-contribution-grid-snake.svg)
