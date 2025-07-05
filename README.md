@@ -8,10 +8,10 @@
 </h2>
 
 <p>
-Me chamo Isabelly Correa, sou estudante de programação e estou aprendendo lógica e JavaScript.  
-Sou apaixonada por tecnologia, especialmente desenvolvimento web e inteligência artificial.  
+Me chamo Isabelly, sou estudante de programação e estou aprendendo lógica e JavaScript.  
+Sou apaixonada por tecnologia, especialmente programação e inteligência artificial.  
 Atualmente curso técnico em Informática para Internet e estou sempre buscando evoluir.  
-Meu objetivo é me tornar uma desenvolvedora Full Stack e criar soluções completas para empresas e pessoas. 🚀
+Meu objetivo é me tornar uma desenvolvedora Full Stack e criar soluções completas para empresas e pessoas. 
 </p>
 
 
