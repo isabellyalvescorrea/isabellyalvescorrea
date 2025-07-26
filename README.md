@@ -49,7 +49,7 @@ Meu objetivo é me tornar uma desenvolvedora Full Stack e criar soluções compl
   <a href="mailto:isabellyalvescorrea12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/5532999358809" target="_blank">
+  <a href="https://wa.me/5532999257395" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-1E90FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://www.linkedin.com/in/isabelly-correa-5813a7289/" target="_blank">
