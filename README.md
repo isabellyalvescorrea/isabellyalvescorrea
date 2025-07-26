@@ -4,7 +4,7 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Sobre+mim&repeat=false" alt="Sobre mim"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Sobre+mim&repeat=false" alt="Sobre mim"/>
 </h2>
 
 <p>
@@ -17,7 +17,7 @@ Meu objetivo é me tornar uma desenvolvedora Full Stack e criar soluções compl
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Tecnologias+que+estou+aprendendo&repeat=false" alt="Tecnologias"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Tecnologias+que+estou+aprendendo&repeat=false" alt="Tecnologias"/>
 </h2>
 
 <p align="center">
@@ -31,7 +31,7 @@ Meu objetivo é me tornar uma desenvolvedora Full Stack e criar soluções compl
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+Estat%C3%ADsticas&repeat=false" alt="Estatísticas"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Estat%C3%ADsticas&repeat=false" alt="Estatísticas"/>
 </h2>
 
 <div align="center">
@@ -42,7 +42,7 @@ Meu objetivo é me tornar uma desenvolvedora Full Stack e criar soluções compl
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%93%AB+Onde+me+encontrar&repeat=false" alt="Contato"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Onde+me+encontrar&repeat=false" alt="Contato"/>
 </h2>
 
 <p align="center">
@@ -57,7 +57,14 @@ Meu objetivo é me tornar uma desenvolvedora Full Stack e criar soluções compl
   </a>
 </p>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%90%8D+Meus+commits&repeat=false" alt="Meus commits"/>
+</h2>
 
-##  meus commits
 
-![Snake animation](https://raw.githubusercontent.com/isabellyalvescorrea/isabellyalvescorrea/output/github-contribution-grid-snake.svg)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isabellyalvescorrea/isabellyalvescorrea/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isabellyalvescorrea/isabellyalvescorrea/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isabellyalvescorrea/isabellyalvescorrea/output/github-contribution-grid-snake.svg">
+</picture>
