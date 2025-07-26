@@ -8,9 +8,9 @@
 </h2>
 
 <p>
-Me chamo Isabelly, sou estudante de programação e estou aprendendo lógica e JavaScript.  
+Me chamo Isabelly, sou estudante de programação e atualmente estou aprendendo lógica, JavaScript, HTML, e CSS.  
 Sou apaixonada por tecnologia, especialmente programação e inteligência artificial.  
-Atualmente curso técnico em Informática para Internet e estou sempre buscando evoluir.  
+Curso técnico em Informática para Internet e estou sempre buscando evoluir.  
 Meu objetivo é me tornar uma desenvolvedora Full Stack e criar soluções completas para empresas e pessoas. 
 </p>
 
@@ -60,7 +60,7 @@ Meu objetivo é me tornar uma desenvolvedora Full Stack e criar soluções compl
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%90%8D+Meus+commits+animados&repeat=false" alt="Snake"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%90%8D+commits&repeat=false" alt="Snake"/>
 </h2>
 
 ![Snake animation](https://github.com/isabellyalvescorrea/isabellyalvescorrea/blob/output/github-contribution-grid-snake.svg)
