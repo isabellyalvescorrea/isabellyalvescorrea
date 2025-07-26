@@ -58,9 +58,6 @@ Meu objetivo é me tornar uma desenvolvedora Full Stack e criar soluções compl
 </p>
 
 
+##  meus commits
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%90%8D+commits&repeat=false" alt="Snake"/>
-</h2>
-
-![Snake animation](https://github.com/isabellyalvescorrea/isabellyalvescorrea/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/isabellyalvescorrea/isabellyalvescorrea/output/github-contribution-grid-snake.svg)
